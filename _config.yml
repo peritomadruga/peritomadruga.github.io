@@ -3,7 +3,7 @@ name: 'Perito Madruga'
 description: 'Blog com conteúdos relacionados as atividades de cybersecurity blue team.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://peritomadruga.github.io/'
+baseurl: ''
 disqus: 'demowebsite'
 email: 'ata@gmail.com'
 mailchimp-list: ''
@@ -23,7 +23,7 @@ authors:
       name:           Anthony Walter
       site:           https://peritomadruga.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Especialista em computação forense com ênfase em cibercrime e resposta a incidentes"
       email:          ata@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 

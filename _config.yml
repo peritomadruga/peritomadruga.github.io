@@ -1,12 +1,12 @@
 # Site
 name: 'Perito Madruga'
-description: 'Blog com conteúdos relacionados as atividades de cybersecurity blue team.'
+description: 'Blog Pessoal com informações sobre brechas e vazamento de dados e os cibercrimes praticados globalmente na visão do Perito Madruga, especialista em computação forense.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
-email: 'ata@gmail.com'
-mailchimp-list: ''
+email: 'example@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,13 +19,21 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    anthony:
-      name:           Anthony Walter
+    sal:
+      name:           Madruga
       site:           https://peritomadruga.github.io
-      avatar:         /assets/images/avatar.jpg
+      avatar:         /assets/images/peritomadruga-logo.png
       bio:            "Especialista em computação forense com ênfase em cibercrime e resposta a incidentes"
-      email:          ata@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          example@gmail.com
+      twitter:        https://twitter.com
+
+    # jane:
+    #   name:           Jane
+    #   site:           https://www.wowthemes.net
+    #   avatar:         /assets/images/avatar2.jpg
+    #   bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    #   email:          fakemail@gmail.com
+    #   twitter:        https://twitter.com/wowthemesnet
 
 # Defaults
 defaults:
@@ -35,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: anthony
-      avatar: /assets/images/avatar.jpg
+      author: sal
+      avatar: /assets/images/avatar1.jpg
 
   # all pages
   - scope:

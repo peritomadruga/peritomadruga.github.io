@@ -1,51 +1,36 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Perito Madruga - Blog Pessoal
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+![Perito Madruga](assets/images/peritomadruga-logo.png)
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-### Documentation
+Como profissional vejo a necessidade do compartilhamento das informações pertinentes sobre a área de cibersegurança para os demais interessados e países que possuam como língua nativa o **Português**, visto a grande quantidade de informações disponibilizadas em outros idiomas ao redor do mundo, onde preferencialmente o **Inglês** é o mais utilizado.
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+> Para fortalecer e tornar-me parte da contribuição na comunidade entre os demais profissionais na área tecnológica, sinto-me no dever de trazer os conhecimentos adqueridos ao público cuja a informação é insuficiente devido ao não conhecimento e domínio de outros idiomas para a obtenção dos devidos conhecimentos em tempo hábil, assim como ocorre nos demais países.
 
-### Contribute to Mundana repository
+### Quais informações são publicadas no Blog do Perito Madruga?
 
-1. In the top-right corner of this page, click **Fork**.
+As possíveis publicações feitas através do blog tem como fontes principais:
 
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+- Publicação com Opinião Pessoal
 
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+- Blogs Internacionais
 
-3. **Create a branch**: 
+- Leitura de Livros Técnicos
 
-   `git checkout -b <my-new-feature-or-fix>`
+- Conhecimento obtidos na Universidade
 
-4. **Make necessary changes and commit those changes**:
+- Vídeos Públicos e Cursos Online
 
-   `git add .`
+### Qual é a visão e objetivo do Blog do Perito Madruga?
 
-   `git commit -m "new feature or fix"`
+A visão de promover o conhecimento utilizando a língua portuguesa, com o objetivo de fortalecer e aproximar a necessidade da troca de informações em idioma nativo, garantindo o pleno entendimento para àqueles com pouco ou nenhum domínio em idiomas, como por exemplo: Inglês e Francês.
 
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+### Quais são os temas abordados e publicados no Blog do Perito Madruga?
 
-   `git push origin <add-your-branch-name>`
+O Blog tem como objetivo publicar informações sobre a área de cibersegurança, como foco principal, os eventos atuais de brechas e vazamento de dados em empresas e órgãos públicos, as investigações e julgamentos dos responsáveis, abordagem de ferramentas e tecnologias utilizadas no mercado, metodologias e boas práticas relacionadas em resposta a incidentes, perícia forense, análise de malwares, equipes de inteligência, dentre outros temas referentes as equipes **Blue Team** para a **Defesa Cibernética**.
 
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
-
+---
 
 ### Copyright
 
-Copyright (C) 2019 WowThemes.net.
-
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+Copyright (C) 2021 Perito Madruga

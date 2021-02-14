@@ -3,7 +3,7 @@ name: 'Perito Madruga'
 description: 'Blog Pessoal com informações sobre brechas e vazamento de dados e os cibercrimes praticados globalmente na visão do Perito Madruga, especialista em computação forense.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://peritomadruga.github.io/'
+baseurl: '/peritomadruga.github.io'
 disqus: 'demowebsite'
 email: 'example@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -25,7 +25,7 @@ authors:
       avatar:         /assets/images/peritomadruga-logo.png
       bio:            "Especialista em computação forense com ênfase em cibercrime e resposta a incidentes"
       email:          example@gmail.com
-      twitter:        https://twitter.com
+      twitter:        https://github.com/peritomadruga
 
     # jane:
     #   name:           Jane
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/peritomadruga-logo.png
 
   # all pages
   - scope:
